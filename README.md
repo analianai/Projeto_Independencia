@@ -10,4 +10,5 @@ Essa iniciativa é fruto da participação do **Hackathon Independências**, que
 2º Deverá tratar dos personagens históricos (Maria Quitéria, Maria Felipa, Joana Angélica, Corneteiro Lopes, entre outros);
 3º Produzir interação do kit Arduino (Sensores e atuadores) com o Jogo;
 4º Desenvolver um Pich do Projeto e apresentar no Hackathon Independências.
-<
+
+https://i.ytimg.com/vi/il67zC-ls_w/sddefault.jpg
