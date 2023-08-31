@@ -1,7 +1,7 @@
 # Projeto Vivenciando a independência
-## Participantes:
-### Gabriel da Silva de Jesus e John Kauan Cerqueira Pereira
-### Centro Juvenil de Ciência e Cultura
+## Centro Juvenil de Ciência e Cultura
+## Participantes:  Gabriel da Silva de Jesus e John Kauan Cerqueira Pereira
+
 <hr>
 <br>
 É um projeto que utiliza a robótica para vivenciar os acontecimentos do dia 2 de julho de 1823 (independência da Bahia),  ou seja , estamos desenvolvendo um Game interativo com a automação do Arduino (Hardware)  aliado a ferramenta Pictoblox(software).
