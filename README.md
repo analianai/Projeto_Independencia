@@ -11,4 +11,6 @@ Essa iniciativa é fruto da participação do **Hackathon Independências**, que
 3º Produzir interação do kit Arduino (Sensores e atuadores) com o Jogo;
 4º Desenvolver um Pich do Projeto e apresentar no Hackathon Independências.
 
-https://i.ytimg.com/vi/il67zC-ls_w/sddefault.jpg
+
+<img src="https://i.ytimg.com/vi/il67zC-ls_w/sddefault.jpg" alt="Minha Figura">
+
