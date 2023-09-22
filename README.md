@@ -1,9 +1,10 @@
 # Projeto Game 2 de Julho
 Participação no Hackathon Independências
+## Centro Juvenil de Ciência e Cultura
 <br>
 <hr>
 <details>
-<summary>Centro Juvenil de Ciência e Cultura</summary>
+<summary>Participantes</summary>
 Autores:  Gabriel da Silva de Jesus e John Kauan Cerqueira Pereira
 || Orientadora:  Anália Emília Barbosa Ferreira de Souza
 <hr>
