@@ -2,14 +2,14 @@
 Participação no Hackathon Independências
 <br>
 <hr>
-
+<details>
 <summary>Centro Juvenil de Ciência e Cultura</summary>
 Autores:  Gabriel da Silva de Jesus e John Kauan Cerqueira Pereira
 || Orientadora:  Anália Emília Barbosa Ferreira de Souza
 <hr>
 <br>
 <img src="https://i.ytimg.com/vi/il67zC-ls_w/sddefault.jpg" alt="Independencia">
-
+</details>
 <details>
 <summary>O Projeto para o Hackathon Independências</summary>
 É um projeto que utiliza a robótica para vivenciar os acontecimentos do dia 2 de julho de 1823 (independência da Bahia),  ou seja , estamos desenvolvendo um Game interativo com a automação do Arduino (Hardware)  aliado a ferramenta Pictoblox(software).
