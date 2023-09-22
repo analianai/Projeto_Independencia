@@ -2,9 +2,10 @@
 Participação no Hackathon Independências
 <br>
 <hr>
-## Centro Juvenil de Ciência e Cultura
-## Autores:  Gabriel da Silva de Jesus e John Kauan Cerqueira Pereira
-## Orientadora:  Anália Emília Barbosa Ferreira de Souza
+
+<summary>Centro Juvenil de Ciência e Cultura</summary>
+Autores:  Gabriel da Silva de Jesus e John Kauan Cerqueira Pereira
+|| Orientadora:  Anália Emília Barbosa Ferreira de Souza
 <hr>
 <br>
 <img src="https://i.ytimg.com/vi/il67zC-ls_w/sddefault.jpg" alt="Independencia">
@@ -17,7 +18,7 @@ Essa iniciativa é fruto da participação do **Hackathon Independências**, que
 2º Deverá tratar dos personagens históricos (Maria Quitéria, Maria Felipa, Joana Angélica, Corneteiro Lopes, entre outros);
 3º Produzir interação do kit Arduino (Sensores e atuadores) com o Jogo;
 4º Desenvolver um Pich do Projeto e apresentar no Hackathon Independências.
-</details>details>
+</details>
 
 <details>
 <summary>Desenvolvimento da solução:</summary>
