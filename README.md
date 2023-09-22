@@ -1,4 +1,4 @@
-# Projeto Vivenciando a independência
+# Projeto Game 2 de Julho
 ## Centro Juvenil de Ciência e Cultura
 ## Autores:  Gabriel da Silva de Jesus e John Kauan Cerqueira Pereira
 ## Orientadora:  Anália Emília Barbosa Ferreira de Souza
