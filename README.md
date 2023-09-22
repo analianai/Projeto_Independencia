@@ -22,7 +22,7 @@ Essa iniciativa é fruto da participação do **Hackathon Independências**, que
 </details>
 
 <details>
-<summary>Desenvolvimento da solução:</summary>
+<summary>Desenvolvimento da solução</summary>
 > 1.	Utilizamos o Design Thinking, adaptado a nossa realidade.
 a.	Primeira fase -  Empatia: Acostumamos com o tema do hackathon, através de pesquisa  com vídeos e textos sobre o assunto e várias discussões em grupo para definir o que fazer
 b.	Segunda fase - Definir: Como foi escolhido a solução para o hackathon Independências? 
