@@ -12,6 +12,16 @@ Essa iniciativa é fruto da participação do **Hackathon Independências**, que
 3º Produzir interação do kit Arduino (Sensores e atuadores) com o Jogo;
 4º Desenvolver um Pich do Projeto e apresentar no Hackathon Independências.
 
-
-
-
+<details>
+<summary>Desenvolvimento da solução</summary>
+>1.	Design Thinking, adaptado a nossa realidade.
+a.	Primeira fase -  Empatia: Acostumamos com o tema do hackathon, através de pesquisa  com vídeos e textos sobre o assunto e várias discussões em grupo para definir o que fazer
+b.	Segunda fase - Definir: Como foi escolhido a solução para o hackathon Independências? 
+c.	Fizemos varias reuniões de Brainstorms
+d.	Terceira fase - Idealizar: Formou a solução que é uma ferramenta educacional para disciplina de história que tem como tema a independência da Bahia, ou seja, a gamificação com robótica com um jogo iterativo com o software (pictoblox) e hardware (plataforma arduino).
+e.	Quarta fase - Prototipar - Definimos a função de cada participante:
+f.	Gabriel responsável pela construção da ferramenta e o John responsável pelo conteúdo da solução
+g.	E assim construímos o Game dois de julho
+>2.	Quinta e última fase - Teste: esta é a parte final onde testamos o jogo com alunos do CJCC Feira
+>3.	Registro das fase feito no feito no github
+</details>details>
